@@ -18,7 +18,7 @@ class App extends Component{
         stats
       >
         <Marker parameters={{ 
-          preset: 'custom',
+          preset: 'custom', 
           type: 'pattern',
           patternUrl: 'https://raw.githubusercontent.com/antpa/my-app/master/public/images/pattern-81XaRGSqC5L._AC_SX522_.patt',
        }}>
